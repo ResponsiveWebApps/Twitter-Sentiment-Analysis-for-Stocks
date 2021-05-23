@@ -3,16 +3,16 @@
 
 ### Description
 
-Analysising tweets form 2020 to see if text sentinment for stocks is mostly posstive or negative. 
+Analyzing tweets from 2020 to see if text sentiment for stocks is mostly positive or negative.
 
-There was more possitive sentiment(1) than negative sentiment(0) in 2020. Which followed a good year for stocks. 
+There was more positive sentiment(1) than negative sentiment(0) in 2020. Which followed a good year for stocks.
 
 ![Compare](https://github.com/ResponsiveWebApps/Twitter-Sentiment-Analysis-for-Stocks/blob/main/compare.png?raw=true)
 
 
 ## Word clouds 
 
-Possitive sentiment
+Positive sentiment
 
 ![Possitive sentiment](https://github.com/ResponsiveWebApps/Twitter-Sentiment-Analysis-for-Stocks/blob/main/positive.png?raw=true)
 
